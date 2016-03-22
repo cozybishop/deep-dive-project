@@ -12,6 +12,11 @@ TOPIC ORIGIN - Question: why a small blog was recieving so much traffic compared
 INFO - Brian and Dharmesh's book. Similar marketing strategies permission marketing
 FUTURE - The company behind the idea (hubspot) has seen increased growth, proving the effectiveness of the idea
 
+http://www.hubspot.com/inbound-marketing
+https://vtldesign.com/inbound-marketing/inbound-marketing-vs-outbound-marketing/
+http://www.slideshare.net/HubSpot/what-is-inbound-marketing-29665969/8-What_Makes_Inbound_DierentTRADITIONALINBOUNDvsCold_CallingCold
+https://www.marketo.com/inbound-marketing/
+
 ATTRACT- Three important aspects are Blogging, Using Keywords, and Social Publishing. 
 
 CONVERT- Three important aspects are Forms, Calls-to-action, Landing Pages.
@@ -20,4 +25,7 @@ CONVERT- Three important aspects are Forms, Calls-to-action, Landing Pages.
 NOTES - Brian's book on the topic
 links to consider:
 http://blog.hubspot.com/marketing/word-choice-conversion-case-studies
-Blogging: https://blog.mozilla.org/ http://blog.jcpenney.com/
+Blogging: https://blog.mozilla.org/ Social:http://blog.jcpenney.com/
+
+IMAGES - Attract: http://cdn2.hubspot.net/hub/53/file-1931747377-png/attract-3.png?t=1458682074600
+         Convert:  http://cdn2.hubspot.net/hub/53/file-1928477193-png/convert-3.png?t=1458682074600
