@@ -17,6 +17,8 @@ INFO - Brian and Dharmesh's book. Similar marketing strategies permission market
 
 FUTURE - The company behind the idea (hubspot) has seen increased growth, proving the effectiveness of the idea
 
+------------------------------------------------------------------------------------------------------------
+
 ATTRACT- Three important aspects are Blogging, Using Keywords, and Social Publishing. 
 
 CONVERT- Three important aspects are Forms, Calls-to-action, Landing Pages.
