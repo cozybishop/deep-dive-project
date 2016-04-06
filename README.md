@@ -23,6 +23,26 @@ ATTRACT- Three important aspects are Blogging, Using Keywords, and Social Publis
 
 CONVERT- Three important aspects are Forms, Calls-to-action, Landing Pages.
 
+Inbound Methodology was born when Brian Halligan and Dharmesh Shah met at MIT in 2004
+A blog that Dharmesh ran was getting abnormally high amounts of traffic. 
+The two of them set out to find the answer and came up with inbound methodology.
+While people were starting to catch on to the idea at the time as old marketing methods were becoming less effective,
+Dharmesh and Brian were the first to make it their own in the form of their business HubSpot.
+It's an idea that has become very familiar to us, inbound puts the customer first and focuses on the principle that
+a superior service will market itself. And by implementing these ideas into your design, people will naturally
+find and share your site.
+Inbound marketing's more personal approach contrasts outbound's more in your face approach and creates a niche for 
+small businesses. Potential customers will find your service through more organic means and feel less forced.
+However, this is not limited to small businesses as many big companies have incorporated inbound ideas into their design, including
+Netflix, Mozilla, and JCPenny (add more)
+It's not only important from a business perspective but also a design perspective inbound ideas are synonymous with a good user experience. 
+HubSpot presents the inbound process as 4 steps Attract, Convert, Close, Delight.
+Attract: touch on Blogging, Search Engine Optimization, and Social Publishing
+Convert: touch on Forms, Calls-to-Action, Landing Pages, Contact Information
+Close: Keep in contact with your users
+Delight: Surveys, Tailored Content, Social Monitoring
+
+------------------------------------------------------------------------------------------------------------
 
 NOTES - Brian's book on the topic
 links to consider:
