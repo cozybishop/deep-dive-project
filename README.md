@@ -56,7 +56,7 @@ Blogging: https://blog.mozilla.org/ Social:http://blog.jcpenney.com/
 IMAGES - Attract: http://cdn2.hubspot.net/hub/53/file-1931747377-png/attract-3.png?t=1458682074600
          Convert:  http://cdn2.hubspot.net/hub/53/file-1928477193-png/convert-3.png?t=1458682074600
          
-ATTRACT NOTES:
+CONVERT NOTES:
 Forty-four percent of clicks for B2B companies are directed to the business’ homepage, not a special landing page. And only about 22% of businesses are satisfied with their conversion rates. Which is sad.
 http://www.marketingexperiments.com/blog/research-topics/landing-page-optimization-research-topics/registration-form-optimization-steps.html
 FORMS:
